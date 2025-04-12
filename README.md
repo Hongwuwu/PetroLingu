@@ -125,7 +125,7 @@
 
 <div align="center">
 
-[![pER5V54.jpg](https://github.com/Hongwuwu/PetroLingu/blob/main/image/new.png?raw=true)](https://github.com/Hongwuwu/PetroLingu/blob/main/image/new.png?raw=true)
+[![pER5V54.jpg](https://github.com/Hongwuwu/PetroLingu/blob/main/image/results.png?raw=true)](https://github.com/Hongwuwu/PetroLingu/blob/main/image/results.png?raw=true)
 
 </div>
 
