@@ -16,8 +16,8 @@
 <div align="center">
 
 [
-![油气行业实图](https://github.com/Hongwuwu/PetroLingu/blob/main/image/1.png?raw=true)
-](https://github.com/Hongwuwu/PetroLingu/blob/main/image/1.png?raw=true)
+![油气行业实图](https://github.com/Hongwuwu/PetroLingu/blob/main/image/油气行业实景图.png?raw=true)
+](https://github.com/Hongwuwu/PetroLingu/blob/main/image/油气行业实景图.png?raw=true)
 
 
 </div>
