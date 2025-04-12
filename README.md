@@ -29,6 +29,7 @@
 [![系统架构图](https://s21.ax1x.com/2025/04/12/pERfXsf.png)](https://imgse.com/i/pERfXsf)
 
 </div>
+
 - **用户接入层**
 可实现将请求精准导向目标服务器，把请求合理分配到后端，避免单个服务器负载过重，保障系统稳定、安全运行。
 
@@ -95,9 +96,12 @@
 针对跨国项目中的多语言技术文档（如英文钻井规范、中文设备手册），自动标注语义对齐内容，支持跨团队协作。 
 
 ## <center>**运行测试**
+
 - ### 关联性分析
 对TopK关键词与经验标签的关联性评价，有如下两个方法：由LLM对TopK个经验标签进行描述再判该描述与经验标签描述的关联性 。
-<center>Llama基于经验标签打标结果示例
+
+<center>Llama基于经验标签打标结果示例</center>
+
 <div align="center">
 
 | 文档序号 | 标签                                                                                                 |
@@ -110,7 +114,9 @@
 </div>
 
 - ### 文档标注
-<center>清洗后的基于Deepseek的标注结果示例
+- 
+<center>清洗后的基于Deepseek的标注结果示例</center>
+
 <div align="center">
 
 [![pER5V54.jpg](https://s21.ax1x.com/2025/04/12/pER5V54.jpg)](https://imgse.com/i/pER5V54)
