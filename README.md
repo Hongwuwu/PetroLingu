@@ -100,7 +100,7 @@
 - ### 关联性分析
 对TopK关键词与经验标签的关联性评价，有如下两个方法：由LLM对TopK个经验标签进行描述再判该描述与经验标签描述的关联性 。
 
-<center>Llama基于经验标签打标结果示例</center>
+#### <center>Llama基于经验标签打标结果示例</center>
 
 <div align="center">
 
@@ -114,8 +114,8 @@
 </div>
 
 - ### 文档标注
-- 
-<center>清洗后的基于Deepseek的标注结果示例</center>
+
+#### <center>清洗后的基于Deepseek的标注结果示例</center>
 
 <div align="center">
 
