@@ -12,9 +12,13 @@
 ## <center>**项目介绍**
 
 基于与国外油气企业的合作和对国内外油气行业文档管理现状的调查，我们发现随着油气行业文档数量、类型与复杂程度的激增，现有管理体系效率和准确率较低，无法适应油气行业数字化转型的新趋势。因此，本项目拟研究基于人工智能的油气文档自动标注系统，以节约油气文档标签标注的时间成本，提高文档查找效率。
+
 <div align="center">
 
-[![pER52zn.png](https://s21.ax1x.com/2025/04/12/pER52zn.png)](https://imgse.com/i/pER52zn)
+[
+![油气行业实图](https://github.com/Hongwuwu/PetroLingu/blob/main/image/1.png?raw=true)
+](https://github.com/Hongwuwu/PetroLingu/blob/main/image/1.png?raw=true)
+
 
 </div>
 
@@ -26,7 +30,8 @@
 ### 系统架构
 <div align="center">
 
-[![系统架构图](https://s21.ax1x.com/2025/04/12/pERfXsf.png)](https://imgse.com/i/pERfXsf)
+[![系统架构图](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E6%9E%B6%E6%9E%84.png?raw=true)](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E6%9E%B6%E6%9E%84.png?raw=true)
+
 
 </div>
 
@@ -53,7 +58,7 @@
 
 ### 系统模块
 - #### 标签生成模块
-[![pERhcTg.png](https://s21.ax1x.com/2025/04/12/pERhcTg.png)](https://imgse.com/i/pERhcTg)
+[![pERhcTg.png](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E6%A8%A1%E5%9D%97.png?raw=true)](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E6%A8%A1%E5%9D%97.png?raw=true)
 
 **文档标注步骤**
 1. 接收来自用户的非空传入文档
@@ -61,7 +66,7 @@
 3. 将整合的文本文档用于无监督学习
 4. 聚类结果在去除重复和无意义字符后，可加入系统标签库。
 - #### 文档自动标注模块
-[![pERh2kQ.png](https://s21.ax1x.com/2025/04/12/pERh2kQ.png)](https://imgse.com/i/pERh2kQ)
+[![pERh2kQ.png](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E6%A8%A1%E5%9D%972.png?raw=true)](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E6%A8%A1%E5%9D%972.png?raw=true)
 
 **文档标注步骤**
 1. 提取文档文本信息
@@ -69,9 +74,10 @@
 3.  若匹配成功，则输出文档标注结果；若匹配失败，则由大模型依照标签体系格式生成适当标签
 4. 输出标注结果并将新标签处理后整合入标签库中，实现标签体系自动更新。
 ### 系统功能
-[![pERhRYj.png](https://s21.ax1x.com/2025/04/12/pERhRYj.png)](https://imgse.com/i/pERhRYj)
+[![pERhRYj.png](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E5%8A%9F%E8%83%BD.png?raw=true)](https://github.com/Hongwuwu/PetroLingu/blob/main/image/%E5%8A%9F%E8%83%BD.png?raw=true)
 - 网页端：文档输入、标签生成、自动标注、标签列表显示和输出标注结果；
 - 后台端：调整数据处理和标注规则、无监督学习参数调节和大模型服务质量评估。
+
 ## <center>**业务场景**
 
 **勘探报告著能解析与标注**
@@ -119,7 +125,7 @@
 
 <div align="center">
 
-[![pER5V54.jpg](https://s21.ax1x.com/2025/04/12/pER5V54.jpg)](https://imgse.com/i/pER5V54)
+[![pER5V54.jpg](https://github.com/Hongwuwu/PetroLingu/blob/main/image/new.png?raw=true)](https://github.com/Hongwuwu/PetroLingu/blob/main/image/new.png?raw=true)
 
 </div>
 
